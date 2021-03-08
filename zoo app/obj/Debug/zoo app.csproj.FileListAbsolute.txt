@@ -1,0 +1,7 @@
+C:\Users\venom\Source\Repos\SDV601-week3-group\zoo app\bin\Debug\zoo app.exe.config
+C:\Users\venom\Source\Repos\SDV601-week3-group\zoo app\bin\Debug\zoo app.exe
+C:\Users\venom\Source\Repos\SDV601-week3-group\zoo app\bin\Debug\zoo app.pdb
+C:\Users\venom\Source\Repos\SDV601-week3-group\zoo app\obj\Debug\zoo app.csprojAssemblyReference.cache
+C:\Users\venom\Source\Repos\SDV601-week3-group\zoo app\obj\Debug\zoo app.csproj.CoreCompileInputs.cache
+C:\Users\venom\Source\Repos\SDV601-week3-group\zoo app\obj\Debug\zoo app.exe
+C:\Users\venom\Source\Repos\SDV601-week3-group\zoo app\obj\Debug\zoo app.pdb
