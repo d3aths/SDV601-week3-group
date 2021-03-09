@@ -17,12 +17,15 @@ namespace ZooWk3MH
             Lion cleopatra = new Lion("Cleopatra");
             Mouse hercules = new Mouse("Hercules");
 
-            paprika.GetSound();
-            cleopatra.GetSound();
-            hercules.GetSound();
+            String output = $"{paprika.Name} the {paprika.GetType().Name.ToLower()} can {paprika.GetSound().ToLower()}";
+            String output2 = $"{cleopatra.Name} the {cleopatra.GetType().Name.ToLower()} can {cleopatra.GetSound().ToLower()}";
+            String output3 = $"{hercules.Name} the {hercules.GetType().Name.ToLower()} can {hercules.GetSound().ToLower()}";
 
-            Console.ReadLine();
+
+            Console.WriteLine(output + "\n" + output2 + "\n" + output3);
+            Console.ReadKey();
         }
+
         
     }
 }
