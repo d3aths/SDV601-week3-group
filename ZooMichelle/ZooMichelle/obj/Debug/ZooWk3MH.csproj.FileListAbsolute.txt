@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\obj\Debug\ZooWk3MH.csprojAssemblyReference.cache
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\obj\Debug\ZooWk3MH.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\bin\Debug\ZooWk3MH.exe.config
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\bin\Debug\ZooWk3MH.exe
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\bin\Debug\ZooWk3MH.pdb
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\obj\Debug\ZooWk3MH.exe
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\obj\Debug\ZooWk3MH.pdb
