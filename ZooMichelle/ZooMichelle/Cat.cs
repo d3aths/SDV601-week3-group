@@ -6,16 +6,10 @@ using System.Threading.Tasks;
 
 namespace ZooWk3MH
 {
-    class Lion : Cat
+    abstract class Cat : Animal
     {
-        public Lion(string name)
+        public Cat()
         {
-            Name = name;
-        }
-
-        public override string GetSound()
-        {
-           return "Roar";
         }
     }
 }

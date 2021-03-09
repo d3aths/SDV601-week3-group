@@ -6,16 +6,17 @@ using System.Threading.Tasks;
 
 namespace ZooWk3MH
 {
-    class Tiger : Animal
+    class Tiger : Cat
     {
-       
-        public Tiger(string name) : base(name)
+        public Tiger(string name)
         {
+            Name = name;
         }
 
-        public override void GetSound()
+       
+        public override string GetSound()
         {
-            Console.WriteLine("Snarl");
+           return "Snarl";
             
         }
     }

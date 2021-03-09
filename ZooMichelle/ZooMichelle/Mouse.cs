@@ -8,13 +8,14 @@ namespace ZooWk3MH
 {
     class Mouse : Animal
     {
-        public Mouse(string name) : base(name)
+        public Mouse(string name)
         {
+            Name = name;
         }
 
-        public override void GetSound()
+        public override string GetSound()
         {
-            Console.Write("Squeak");
+            return "Squeak";
         }
     }
 }

@@ -6,20 +6,24 @@ using System.Threading.Tasks;
 
 namespace ZooWk3MH
 {
-     class Animal
+    abstract class Animal
     {
         private String name;
 
-        public Animal(string name)
+        public Animal()
         {
-            this.name = name;
+            
         }
 
-      
+        public virtual string Name 
+        { 
+            get => name; 
+            set => name = value; 
+        }
 
-        public virtual void GetSound()
+        public virtual string GetSound()
         {
-            Console.WriteLine("Sound");
+            return "Sound";
         }
     
     }
