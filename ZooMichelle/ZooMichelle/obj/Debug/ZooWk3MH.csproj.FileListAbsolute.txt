@@ -1,0 +1,14 @@
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\obj\Debug\ZooWk3MH.csprojAssemblyReference.cache
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\obj\Debug\ZooWk3MH.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\bin\Debug\ZooWk3MH.exe.config
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\bin\Debug\ZooWk3MH.exe
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\bin\Debug\ZooWk3MH.pdb
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\obj\Debug\ZooWk3MH.exe
+C:\Users\miche\source\repos\ZooMichelle\ZooMichelle\obj\Debug\ZooWk3MH.pdb
+C:\Users\miche\Documents\NMIT\SDV601\SDV601-week3-group\ZooMichelle\ZooMichelle\bin\Debug\ZooWk3MH.exe.config
+C:\Users\miche\Documents\NMIT\SDV601\SDV601-week3-group\ZooMichelle\ZooMichelle\bin\Debug\ZooWk3MH.exe
+C:\Users\miche\Documents\NMIT\SDV601\SDV601-week3-group\ZooMichelle\ZooMichelle\bin\Debug\ZooWk3MH.pdb
+C:\Users\miche\Documents\NMIT\SDV601\SDV601-week3-group\ZooMichelle\ZooMichelle\obj\Debug\ZooWk3MH.csprojAssemblyReference.cache
+C:\Users\miche\Documents\NMIT\SDV601\SDV601-week3-group\ZooMichelle\ZooMichelle\obj\Debug\ZooWk3MH.csproj.CoreCompileInputs.cache
+C:\Users\miche\Documents\NMIT\SDV601\SDV601-week3-group\ZooMichelle\ZooMichelle\obj\Debug\ZooWk3MH.exe
+C:\Users\miche\Documents\NMIT\SDV601\SDV601-week3-group\ZooMichelle\ZooMichelle\obj\Debug\ZooWk3MH.pdb
